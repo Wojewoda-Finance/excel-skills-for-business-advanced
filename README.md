@@ -1,2 +1,7 @@
-# excel-skills-for-business-advanced
-The last course from Excel Skills for Business Specialization Corsera. 
+
+## Course Information
+
+- Course: Excel Skills for Business: Advanced
+- Platform: Coursera
+- Started: 2026-08-26
+- Status: In progress
