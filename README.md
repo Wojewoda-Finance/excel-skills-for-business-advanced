@@ -27,3 +27,22 @@ Topics practiced:
 ### Screenshot:
 ![ScreenShoot](C4-W3-Final-Assessment-photo.png)
 
+## 2026-09-28  |  C4-W4-Final-Assessment
+
+- Completed Week 4 final assessment.
+
+Topics Practised:
+- `EOMONTH` - used to determine the end of the quarter based on a given date.
+- `PMT` - Payment Function used to calculate montly payment for loan.
+- `IRR` - Internal Rate of Return function used to calculate the lender's rate of return on a monthly or annual basis.
+- `NPV` - Net Present Value function used to calculate bank discount rate.
+- `DDB` - Double Declining Balance function used to calculate accelerated depreciation of an asset over its useful life.
+
+ ### ScreenShot:
+ ![ScreenShoot](C4-W4-Final-Assessment-photo.png)
+  
+
+
+
+  
+
