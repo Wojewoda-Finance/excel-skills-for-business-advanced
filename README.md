@@ -4,7 +4,7 @@
 - Course: Excel Skills for Business: Advanced
 - Platform: Coursera
 - Started: 2026-08-26
-- Status: In progress
+- Status: Completed 2026-10-05
 
 ## 2026-09-21  |  C4-W3-Final-AssessmentUnicode
 
@@ -41,7 +41,6 @@ Topics Practised:
  ### ScreenShot:
  ![ScreenShoot](C4-W4-Final-Assessment-photo.png)
   
-
 
 
   
